@@ -13,7 +13,7 @@ This project provides a controller for the ADF4351 wideband frequency synthesize
 
 - Raspberry Pi Pico 2
 - ADF4351 module or breakout board
-- 25 MHz reference oscillator (can be adjusted in code)
+- 25 MHz reference oscillator (default on most boards, can be adjusted in code)
 - Connecting wires
 - Optional: Amplifier, filters, and antenna for RF output
 
